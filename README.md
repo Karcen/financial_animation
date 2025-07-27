@@ -36,12 +36,6 @@ It aims to present financial modeling concepts in a clear, visual, and engaging 
 
 ---
 
-## ✨ 效果预览 | Preview
-
-> 🚧 效果视频与预览图将在后续版本中上传……
-
----
-
 ## 🤝 欢迎交流 | Contributions Welcome!
 
 欢迎感兴趣的朋友一起参与开发与优化！
